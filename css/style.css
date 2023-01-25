@@ -591,6 +591,17 @@ textarea {
   width: 100%;
 }
 
+.img_tbc {
+  height: 40%;
+  width: 40%;
+}
+
+.img_tbc_container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
 .project-details__content-main {
   width: 100%;
   max-width: 70rem;
